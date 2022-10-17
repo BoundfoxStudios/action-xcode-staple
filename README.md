@@ -6,7 +6,7 @@ This Action staples notary service tickets to macOS products.
 
 ```yaml
 - name: "Staple Release Build"
-  uses: BoundfoxStudios/xcode-staple@v1
+  uses: BoundfoxStudios/action-xcode-staple@v1
   with:
     product-path: "Export/Application.app"
 ```

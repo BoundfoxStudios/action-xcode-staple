@@ -18,7 +18,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-name: 'Xcode Staple'
+name: 'Apple Xcode Staple'
 description: 'Attach ticket for notarized executables to app bundles, disk images, and packages.'
 
 branding:
@@ -35,5 +35,5 @@ inputs:
     default: false
 
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'dist/index.js'

@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BoundfoxStudios/xcode-staple.git"
+    "url": "git+https://github.com/BoundfoxStudios/action-xcode-staple.git"
   },
   "keywords": [
     "GitHub",
@@ -22,9 +22,9 @@
   "contributors": ["Stefan Arentz <stefan@devbots.xyz>"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BoundfoxStudios/xcode-staple/issues"
+    "url": "https://github.com/BoundfoxStudios/action-xcode-staple/issues"
   },
-  "homepage": "https://github.com/BoundfoxStudios/xcode-staple#readme",
+  "homepage": "https://github.com/BoundfoxStudios/action-xcode-staple#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
     "execa": "^4.0.3"
